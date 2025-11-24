@@ -13,6 +13,7 @@ jenkins-zero-to-hero/
 ├── README.md
 ├── 01-jenkins-basics/
 │   ├── notes.md
+|   ├──JENKINS-PLUGINS.md
 │   └── lab-01-install-and-setup.md
 ├── 02-freestyle-jobs/
 │   ├── notes.md
